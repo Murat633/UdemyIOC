@@ -1,0 +1,14 @@
+C:\Users\MHD\source\repos\UdemyIOC\UdemyIOC.Console\bin\Debug\net8.0\UdemyIOC.Console.exe
+C:\Users\MHD\source\repos\UdemyIOC\UdemyIOC.Console\bin\Debug\net8.0\UdemyIOC.Console.deps.json
+C:\Users\MHD\source\repos\UdemyIOC\UdemyIOC.Console\bin\Debug\net8.0\UdemyIOC.Console.runtimeconfig.json
+C:\Users\MHD\source\repos\UdemyIOC\UdemyIOC.Console\bin\Debug\net8.0\UdemyIOC.Console.dll
+C:\Users\MHD\source\repos\UdemyIOC\UdemyIOC.Console\bin\Debug\net8.0\UdemyIOC.Console.pdb
+C:\Users\MHD\source\repos\UdemyIOC\UdemyIOC.Console\obj\Debug\net8.0\UdemyIOC.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MHD\source\repos\UdemyIOC\UdemyIOC.Console\obj\Debug\net8.0\UdemyIOC.Console.AssemblyInfoInputs.cache
+C:\Users\MHD\source\repos\UdemyIOC\UdemyIOC.Console\obj\Debug\net8.0\UdemyIOC.Console.AssemblyInfo.cs
+C:\Users\MHD\source\repos\UdemyIOC\UdemyIOC.Console\obj\Debug\net8.0\UdemyIOC.Console.csproj.CoreCompileInputs.cache
+C:\Users\MHD\source\repos\UdemyIOC\UdemyIOC.Console\obj\Debug\net8.0\UdemyIOC.Console.dll
+C:\Users\MHD\source\repos\UdemyIOC\UdemyIOC.Console\obj\Debug\net8.0\refint\UdemyIOC.Console.dll
+C:\Users\MHD\source\repos\UdemyIOC\UdemyIOC.Console\obj\Debug\net8.0\UdemyIOC.Console.pdb
+C:\Users\MHD\source\repos\UdemyIOC\UdemyIOC.Console\obj\Debug\net8.0\UdemyIOC.Console.genruntimeconfig.cache
+C:\Users\MHD\source\repos\UdemyIOC\UdemyIOC.Console\obj\Debug\net8.0\ref\UdemyIOC.Console.dll
